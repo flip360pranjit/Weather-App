@@ -20,7 +20,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "build:deploy": "env-cmd -f .env.local npm run build && firebase deploy -P weather-app-2c4e3"
   },
   "eslintConfig": {
     "extends": [
@@ -42,6 +43,7 @@
   },
   "devDependencies": {
     "@types/leaflet": "^1.9.0",
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "env-cmd": "^10.1.0"
   }
 }
