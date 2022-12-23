@@ -29,7 +29,7 @@
 </ul><ul>
 <li>The <strong>marker</strong> of a city, when clicked, displays a <strong>popup</strong> containing <strong>weather information</strong> of the city</li>
 </ul><h2>Screenshots</h2>
-<hr><p><img src="https://i.postimg.cc/x1dCsk6z/Screenshot-66.png" alt=""></p><p><img src="https://i.postimg.cc/mg6rKbn6/Screenshot-67.png" alt=""></p><p><img src="https://i.postimg.cc/0NTy2VPY/Screenshot-68.png" alt=""></p><p><img src="https://i.postimg.cc/XvGvbRSN/Screenshot-69.png" alt=""></p><h2>Setup</h2>
+<hr><p><img src="https://i.postimg.cc/MGr4VGTx/Screenshot-71.png" alt=""></p><p><img src="https://i.postimg.cc/mg6rKbn6/Screenshot-67.png" alt=""></p><p><img src="https://i.postimg.cc/0NTy2VPY/Screenshot-68.png" alt=""></p><p><img src="https://i.postimg.cc/XvGvbRSN/Screenshot-69.png" alt=""></p><h2>Setup</h2>
 <hr><p>The following are the requirements to run this project:</p>
 <ul>
 <li>Node Package Manager (NPM)</li>
