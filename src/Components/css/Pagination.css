@@ -1,0 +1,11 @@
+.pagination-div
+{
+    display: flex;
+    justify-content: center;
+}
+.page-txt
+{
+    margin-top: 7px;
+    margin-right: 10px;
+    color: #0275d8;
+}

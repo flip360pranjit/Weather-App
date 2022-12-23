@@ -1,0 +1,15 @@
+.weather-popup img {
+  width: 70px;
+  float: left;
+  background-color: #C8FFD4;
+  border-radius: 5px;
+}
+.info {
+  float: right;
+}
+h4 {
+  margin-block: 0;
+}
+span {
+  margin-right: 20px;
+}
